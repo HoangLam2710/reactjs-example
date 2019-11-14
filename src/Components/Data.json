@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Lâm",
+        "tel": "012345678",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Hoàng",
+        "tel": "0098568990",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Lê",
+        "tel": "0217095894",
+        "permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Thụy",
+        "tel": "0271678398",
+        "permission": 1
+    },
+    {
+        "id": 5,
+        "name": "Uyên",
+        "tel": "089763789",
+        "permission": 3
+    }
+]
